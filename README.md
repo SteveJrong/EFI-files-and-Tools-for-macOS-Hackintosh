@@ -5,7 +5,7 @@
 
 #### 说明
 1. 支持的设备：
-- Intel平台：
+- Intel平台：  
 微星ZH77A G43 Plus台式电脑  
 惠普ZBook 15 G2笔记本电脑  
 惠普ProDesk 400 G3 Desktop Mini（DM）微型台式电脑  
